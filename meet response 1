@@ -1,0 +1,228 @@
+You’re always welcome, Anand.
+
+
+Best Regards,
+Atul Singh
+
+From: Anand Patil <Anand.1.Patil@coforge.com> 
+Sent: 30 November 2023 13:03
+To: Atul Singh <Atul.Singh@coforge.com>
+Cc: Nimish Nair <Nimish.Nair@coforge.com>; Ravindra Singh <Ravindra.Singh@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+
+Thank you Atul.
+
+From: Atul Singh <Atul.Singh@coforge.com> 
+Sent: Thursday, November 30, 2023 6:26 PM
+To: Anand Patil <Anand.1.Patil@coforge.com>
+Cc: Nimish Nair <Nimish.Nair@coforge.com>; Ravindra Singh <Ravindra.Singh@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+
+Hello Anand,
+
+Please find the below table for the answers of your questions. Let me know in case you have any concerns.
+
+SL.NO	Query description	Responses
+1	What specific areas or aspects of the project would you like me to concentrate or focus?	Specific to Infrastructures and DevOps Stack.
+2	Can you provide more details about the technology stack and infrastructure used in the project?	It depends on the requirements which comes from C4 and Developers we only provides the infrastructure stack for further deployments.
+3	Are there any challenges or pain points in the current development or deployment process that you would like to address?	This is managed by SRE/ Developers team.
+4	Could you share information about the existing CI/CD (Continuous Integration/Continuous Deployment) practices in the project?	This is managed by SRE/ Developers team.
+5	Are there any specific security considerations or compliance requirements that need to be taken into account?	SecOps team performs the security checks and vulnerabilities scans and they shares the reports and we accordingly perform the remediation. If additional security requirements there we need to take approval from CISO
+6	What is the expected scale and traffic for the application, and are there any performance goals we should be aware of?	This is managed by SRE/ Developers team.
+7	Do you have a preferred cloud provider, and are there any specific services or features you would like to leverage?	AWS is preferred one which we are managed.
+8	Are there any automation requirements or preferences for infrastructure provisioning and configuration management?	Terraform/Cloudformation is used for infrastructure provisioning and not using for Configuration management.
+9	Can you provide insights into the monitoring and logging practices currently in place for the application?	Solarwinds/CloudWatch is used for monitoring perspective.
+10	Are there any plans for scaling the infrastructure in the future, and if so, what are the anticipated growth patterns?	Yes it is ever growing environments for Channel4.
+
+
+
+Best Regards,
+Atul Singh
+
+From: Anand Patil <Anand.1.Patil@coforge.com> 
+Sent: 29 November 2023 17:52
+To: Atul Singh <Atul.Singh@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+
+Hi Atul,
+
+Thanks for your email,
+Please schedule a call tomorrow post 2pm at your available time to discuss below ,
+
+
+SL.NO	Query description
+1	What specific areas or aspects of the project would you like me to concentrate or focus?
+2	Can you provide more details about the technology stack and infrastructure used in the project?
+3	Are there any challenges or pain points in the current development or deployment process that you would like to address?
+4	Could you share information about the existing CI/CD (Continuous Integration/Continuous Deployment) practices in the project?
+5	Are there any specific security considerations or compliance requirements that need to be taken into account?
+6	What is the expected scale and traffic for the application, and are there any performance goals we should be aware of?
+7	Do you have a preferred cloud provider, and are there any specific services or features you would like to leverage?
+8	Are there any automation requirements or preferences for infrastructure provisioning and configuration management?
+9	Can you provide insights into the monitoring and logging practices currently in place for the application?
+10	Are there any plans for scaling the infrastructure in the future, and if so, what are the anticipated growth patterns?
+
+
+
+
+
+Thanks & regards,
+Anand Patil
+
+From: Atul Singh <Atul.Singh@coforge.com> 
+Sent: Wednesday, November 29, 2023 1:08 PM
+To: Deepak Kumar Chatterji <Deepak.Chatterji@coforge.com>; Anand Patil <Anand.1.Patil@coforge.com>; Nimish Nair <Nimish.Nair@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Ravindra Singh <Ravindra.Singh@coforge.com>; Vivek Agarwal <VIVEK.AGARWAL@coforge.com>; Sudhir Kaushal <Sudhir.Kaushal@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+
+Hello Anand,
+
+If you have any questions or if there's a specific you'd like to explore in more detail, please share them with me. 
+To facilitate a more in-depth discussion, we can schedule a call. Let me know a time that suits you and we can coordinate accordingly.
+
+Looking forward to your response.
+
+Best Regards,
+Atul Singh
+
+From: Deepak Kumar Chatterji <Deepak.Chatterji@coforge.com> 
+Sent: 29 November 2023 06:57
+To: Anand Patil <Anand.1.Patil@coforge.com>; Nimish Nair <Nimish.Nair@coforge.com>; Atul Singh <Atul.Singh@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Ravindra Singh <Ravindra.Singh@coforge.com>; Vivek Agarwal <VIVEK.AGARWAL@coforge.com>; Sudhir Kaushal <Sudhir.Kaushal@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+
+Hi Anand,
+
+I am certainly fine the way you want to have your doubts clear if any. Having said that, we must close this in next 2 days of time so that we can take this as complete with both of your acknowledgement.
+
+You may always reach out to Atul/ Nimish in future for any further queries/ discussion. Hope this make sense.
+
+Deepak Chatterji
+Delivery Manager / CIMS 
+
+M: 8860602957
+E: Deepak.Chatterji@coforge.com
+Advance Leave Notification: 23-24th Oct, 13th Nov
+ 
+
+Coforge Limited
+Plot No. TZ - 2& 2A, Sector Tech Zone,
+Yamuna Expressway, Greater Noida - 201308, (India)
+
+
+From: Anand Patil <Anand.1.Patil@coforge.com> 
+Sent: Tuesday, November 28, 2023 4:28 PM
+To: Nimish Nair <Nimish.Nair@coforge.com>; Atul Singh <Atul.Singh@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Ravindra Singh <Ravindra.Singh@coforge.com>; Vivek Agarwal <VIVEK.AGARWAL@coforge.com>; Deepak Kumar Chatterji <Deepak.Chatterji@coforge.com>; Sudhir Kaushal <Sudhir.Kaushal@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+
+Hi Nimish,
+
+I work from Hyderabad office & Antara from Bangalore office respectively,
+We’ll get in touch with Atul for any queries over the overview sessions,
+
+Let me know if this works.
+
+Thanks & Regards,
+Anand Patil
+
+From: Nimish Nair <Nimish.Nair@coforge.com> 
+Sent: Tuesday, November 28, 2023 9:29 PM
+To: Anand Patil <Anand.1.Patil@coforge.com>; Atul Singh <Atul.Singh@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Ravindra Singh <Ravindra.Singh@coforge.com>; Vivek Agarwal <VIVEK.AGARWAL@coforge.com>; Deepak Kumar Chatterji <Deepak.Chatterji@coforge.com>; Sudhir Kaushal <Sudhir.Kaushal@coforge.com>
+Subject: Re: Channel 4 | Recorded KT sessions
+
+Hello Anand/Antara
+
+Can you come to our floor tomorrow to work along with the team and get a feel of things. 
+
+We need to close this action item this month.
+
+Regards 
+Nimish
+________________________________________
+From: Nimish Nair
+Sent: Thursday, November 23, 2023 11:32:03 PM
+To: Anand Patil <Anand.1.Patil@coforge.com>; Atul Singh <Atul.Singh@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Ravindra Singh <Ravindra.Singh@coforge.com>; Vivek Agarwal <VIVEK.AGARWAL@coforge.com>; Deepak Kumar Chatterji <Deepak.Chatterji@coforge.com>; Sudhir Kaushal <Sudhir.Kaushal@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions 
+ 
+Hello Anand 
+ 
+We are available in office from Mon – Wed. You can come and work along with Atul on the practical side as well as see the workflow. 
+ 
+Regards
+Nimish
+ 
+From: Anand Patil <Anand.1.Patil@coforge.com> 
+Sent: Tuesday, November 21, 2023 12:58 PM
+To: Nimish Nair <Nimish.Nair@coforge.com>; Atul Singh <Atul.Singh@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Ravindra Singh <Ravindra.Singh@coforge.com>; Vivek Agarwal <VIVEK.AGARWAL@coforge.com>; Deepak Kumar Chatterji <Deepak.Chatterji@coforge.com>; Sudhir Kaushal <Sudhir.Kaushal@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+ 
+ 
+Hello Nimish,
+ 
+Would like to thank Atul for having the initial overview of the key topics covered in the KT sessions. It would be good if we get a chance to delve into the details in the coming days.
+Considering our day-to-day tasks in the project, it would be immensely helpful if he could shed light on the practical aspects. 
+Understanding how to handle tasks such as tickets and providing insights into the workflow would be greatly beneficial for all of us.
+ 
+Looking forward to gaining more in-depth knowledge in the upcoming sessions.
+ 
+Thanks & regards,
+Anand Patil
+ 
+From: Nimish Nair <Nimish.Nair@coforge.com> 
+Sent: Tuesday, November 21, 2023 12:28 PM
+To: Atul Singh <Atul.Singh@coforge.com>; Anand Patil <Anand.1.Patil@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Ravindra Singh <Ravindra.Singh@coforge.com>; Vivek Agarwal <VIVEK.AGARWAL@coforge.com>; Deepak Kumar Chatterji <Deepak.Chatterji@coforge.com>; Sudhir Kaushal <Sudhir.Kaushal@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+ 
+Hello Atul 
+ 
+Thanks for sharing the update on K.T 
+ 
+Anand/Antara .. is there anything else you would want Atul to cover as part of the technical training. 
+ 
+Regards
+Nimish
+ 
+From: Atul Singh <Atul.Singh@coforge.com> 
+Sent: Wednesday, November 8, 2023 9:28 PM
+To: Anand Patil <Anand.1.Patil@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Nimish Nair <Nimish.Nair@coforge.com>; Ravindra Singh <Ravindra.Singh@coforge.com>
+Subject: RE: Channel 4 | Recorded KT sessions
+ 
+Hello Anand & Antara,
+ 
+We covered the following key points in our discussion during today's KT session:
+ 
+• C4 AWS Account Structure and an overview of managed AWS accounts.
+• Functionality of C4 tools such as GitLab, Jira & Confluence.
+• Discussion on LDAP and OneLogin Functionality
+• Terraform Infrastructure-Stacks overview.
+• An overview of the Monitoring and Backup Process.
+ 
+Please let me know if you have any queries.
+ 
+Best Regards,
+Atul Singh
+ 
+From: Atul Singh 
+Sent: 27 October 2023 17:11
+To: Anand Patil <Anand.1.Patil@coforge.com>; Antara Roy <Antara.Roy@coforge.com>
+Cc: Nimish Nair <Nimish.Nair@coforge.com>; Ravindra Singh <Ravindra.Singh@coforge.com>
+Subject: Channel 4 | Recorded KT sessions
+ 
+Hello Anand/Antara
+
+Regarding Channel4 – KT, I have shared the recorded KT sessions via Microsoft Teams channel. These recordings will be accessible with view permissions.
+ 
+To access the recordings, please follow this link: “Cloud KT Recordings”. Please confirm your access to ensure you can review the content.
+ 
+Additionally, I will proceed to schedule the KT sessions for further discussion and share the invite as well. It would be greatly appreciated if you could review the sessions beforehand so that we can make the most of our upcoming discussions.
+ 
+ 
+Best Regards,
+Atul Singh
+ 
